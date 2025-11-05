@@ -49,16 +49,3 @@ The script generates plots for **Model Accuracy** and **Model Loss** over each e
 After 30 epochs of training, the model achieves a test accuracy of **~85%**.
 
 *(Note: Running with fewer epochs, like 10, will result in lower accuracy but provides a faster test of the code.)*
-
-## 💡 How to Run
-
-1.  **Clone the repository:**
-      git clone [https://github.com/YOUR_USERNAME/cnn-image-classifier.git](https://github.com/riteshgursal/cnn-image-classifier.git)
-      cd cnn-image-classifier
-
-2.  **Install dependencies:**
-      pip install tensorflow matplotlib
-  
-3.  **Run the script:**
-      python image_classifier.py
-  
